@@ -1,0 +1,17 @@
+Proshell is a custom prompting shell designed to enhance the user experience by providing a more interactive and informative command line interface. It is built with the aim of making command line operations more intuitive and user-friendly.
+
+Prerequisites
+- Git (to check the dirty and branch status)
+- .bashrc (usually pre-installed on most Linux distributions)
+- Nerd Fonts (for better visual representation of icons)
+
+How to Install Proshell
+1. Clone the repository `git clone https://github.com/bydzen/proshell.git`
+2. Navigate to the cloned directory `cd proshell`
+3. Run the installation script `./install.sh`
+4. Restart your terminal
+
+Help
+./install.sh --help
+
+Enjoy.
