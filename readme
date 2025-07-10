@@ -6,9 +6,9 @@ Prerequisites
 - Nerd Fonts (for better visual representation of icons)
 
 How to Install Proshell
-1. Clone the repository `git clone https://github.com/bydzen/proshell.git`
-2. Navigate to the cloned directory `cd proshell`
-3. Run the installation script `./install.sh`
+1. Clone the repository (git clone https://github.com/bydzen/proshell.git)
+2. Navigate to the cloned directory (cd proshell)
+3. Run the installation script (./install.sh)
 4. Restart your terminal
 
 Help
